@@ -1,0 +1,28 @@
+{
+    "name": "서울특별시_사망원인별 사망 (성별 구별) 통계",
+    "alternateName": "서울특별시_사망원인별 사망 (성별/구별) 통계_20191231",
+    "description": "○ 통계개요 * 통계명 : 사망원인별 사망(성/구별) * 통계종류 : 서울시 사망인구의 사망원인을 성별ㆍ자치구별로 제공하는 지정ㆍ가공통계 * 근거법령 :「가족관계의 등록 등에 관한 법률」제84조에 의한 사망신고와 그 기재사항 * 작성목적 : 대한민국 국민의 정확한 사망원인 구조를 파악하여 국민복지 및 보건의료 정책수립을 위한 기초자료를 제공하는 것을 목적으로 함 * 조사체계 : 동 → 자치구 → 서울시 → 통계청 * 공표주기 : 정기(매년, 9월 기준) * 공표범위 : 지역- 서울시 및 자치구 내용- 서울시 사망인구의 성별ㆍ자치구별 사망원인",
+    "url": "https://www.data.go.kr/data/15046976/fileData.do",
+    "keywords": "사망원인,보건의료,사망,원인,국민복지",
+    "license": "공공저작물_출처표시",
+    "dateCreated": "2016-06-01",
+    "dateModified": "2025-11-13",
+    "datePublished": "2016-06-01",
+    "creator": {
+        "name": "서울특별시",
+        "contactPoint": {
+            "contactType": "데이터전략과",
+            "telephone": "02-2133-4279",
+            "@type": "ContactPoint"
+        },
+        "@type": "Organization"
+    },
+    "spatialCoverage": "",
+    "temporalCoverage": "",
+    "additionalType": "일반공공행정 - 일반행정",
+    "datasetTimeInterval": "수시 (1회성 데이터)",
+    "encodingFormat": "HWP",
+    "legislation": "",
+    "@context": "https://schema.org",
+    "@type": "Dataset"
+}

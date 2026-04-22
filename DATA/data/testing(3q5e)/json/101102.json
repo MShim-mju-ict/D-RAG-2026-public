@@ -1,0 +1,26 @@
+{
+    "name": "서울특별시 강남구_코로나 사망자 수",
+    "alternateName": "서울특별시 강남구_코로나 사망자 수_20230830",
+    "description": "서울특별시 강남구의 동별 사망자 수 현황 데이터입니다. 기타 자세한 사항은 강남구 질병관리과(02-3423-7262)로 문의주시면 안내해 드리도록 하겠습니다.",
+    "url": "https://www.data.go.kr/data/15127732/fileData.do",
+    "keywords": "코로나,사망자,동",
+    "license": "이용허락범위 제한 없음",
+    "dateCreated": "2024-04-22",
+    "dateModified": "2024-04-23",
+    "datePublished": "2024-04-22",
+    "creator": {
+        "name": "서울특별시 강남구",
+        "contactPoint": {
+            "contactType": "디지털도시과",
+            "telephone": "02-3423-7942",
+            "@type": "ContactPoint"
+        },
+        "@type": "Organization"
+    },
+    "additionalType": "보건 - 보건의료",
+    "datasetTimeInterval": "수시 (1회성 데이터)",
+    "encodingFormat": "CSV",
+    "legislation": "",
+    "@context": "https://schema.org",
+    "@type": "Dataset"
+}

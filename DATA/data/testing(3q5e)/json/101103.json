@@ -1,0 +1,28 @@
+{
+    "name": "서울특별시 관악구_코로나19 발생현황",
+    "alternateName": "서울특별시 관악구_코로나19 발생현황_20230830",
+    "description": "본 데이터는 2020년 초부터 서울 전역에서 발생한 코로나19 확진 및 사망 현황을 일자별로 정리한 자료입니다. 본 데이터는 구분, 총합계, 강남구·강동구·강북구 등 서울 시내 모든 자치구의 확진·사망 지표와 기타·타시도 항목으로 구성되며, 각 날짜별 누적이 아닌 ‘당일 보고값’을 기반으로 확진 상황의 변화를 파악할 수 있도록 정리되어 있습니다. 본 데이터는 자치구별 확산 규모 비교, 특정 시기 급증 여부 검토, 지역별 대응 정책 평가 등의 기초자료로 활용할 수 있으며, 특히 관악구를 포함한 주요 지역의 초기 확산 흐름을 분석하는 데 의미 있는 참고 지표를 제공합니다.",
+    "url": "https://www.data.go.kr/data/15063501/fileData.do",
+    "keywords": "코로나,코로나19,코로나19 현황,COVID,전염병",
+    "license": "공공저작물_출처표시",
+    "dateCreated": "2020-08-20",
+    "dateModified": "2025-12-11",
+    "datePublished": "2020-08-20",
+    "creator": {
+        "name": "서울특별시 관악구",
+        "contactPoint": {
+            "contactType": "스마트정보과",
+            "telephone": "02-879-6074",
+            "@type": "ContactPoint"
+        },
+        "@type": "Organization"
+    },
+    "spatialCoverage": "",
+    "temporalCoverage": "",
+    "additionalType": "보건 - 보건의료",
+    "datasetTimeInterval": "수시 (1회성 데이터)",
+    "encodingFormat": "XLSX",
+    "legislation": "",
+    "@context": "https://schema.org",
+    "@type": "Dataset"
+}

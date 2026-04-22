@@ -1,0 +1,28 @@
+{
+    "name": "서울특별시_원인별 화재발생 (동별) 통계",
+    "alternateName": "서울특별시_원인별 화재발생 (동별) 통계 _20191231",
+    "description": " 통계 활용사례 등록 URL 복사 목록 이동 서울시 원인별 화재발생(동별) 통계 ○ 통계개요 * 통계명 : 원인별 화재발생(동별) * 통계종류 : 서울시 각 동별 화재발생 건수를 발화요인별로 제공하는 일반ㆍ보고통계 * 작성목적 : 화재발생 건수를 실화, 자연적인 원인, 방화 등 원인별로 화재발생 정보(동별)를 제공하여 사고 방지 및 대응 등 효과적 관리를 위한 기초 자료를 제공하는 것을 목적으로 함 * 조사체계 : 소방서 → 서울소방재난본부 재난대응과 * 공표주기 : 정기(매년, 12월 기준) * 공표범위 : 지역 - 자치구 및 소방서 내용 - 발화요인(실화, 자연적인 요인, 방화)별 화재발생 건수 등 ○ 용어설명 * 방화(arson) : 자택 또는 타인의 주택, 빌딩, 구조물 또는 그 외의 물품을 의도적으로 연소시키는 범죄",
+    "url": "https://www.data.go.kr/data/15046370/fileData.do",
+    "keywords": "발화,화재,화재원인,부주의,가스누출",
+    "license": "공공저작물_출처표시",
+    "dateCreated": "2016-06-03",
+    "dateModified": "2025-08-06",
+    "datePublished": "2016-06-03",
+    "creator": {
+        "name": "서울특별시",
+        "contactPoint": {
+            "contactType": "데이터전략과",
+            "telephone": "02-2133-4273",
+            "@type": "ContactPoint"
+        },
+        "@type": "Organization"
+    },
+    "spatialCoverage": "",
+    "temporalCoverage": "",
+    "additionalType": "공공질서및안전 - 안전관리",
+    "datasetTimeInterval": "수시 (1회성 데이터)",
+    "encodingFormat": "HWP",
+    "legislation": "",
+    "@context": "https://schema.org",
+    "@type": "Dataset"
+}

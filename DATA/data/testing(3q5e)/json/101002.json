@@ -1,0 +1,28 @@
+{
+    "name": "그랜드코리아레저(주)_월별 매출 목표",
+    "alternateName": "그랜드코리아레저(주)_월별 매출 목표_20250924",
+    "description": "- 문화체육관광부 산하 준시장형 공기업 그랜드코리아레저(주)에서 운영 중인 세븐럭 카지노(SevenLuck Casino) 3개 영업점(강남코엑스점, 서울드래곤시티점(구 강북힐튼점), 부산롯데점)의 2011년 1월부터 2025년 12월까지의 테이블, 머신, 전자테이블 매출 목표 데이터입니다. - 개방데이터는 기준년월, 영업장 코드(CX, HT, LT), 영업장명(코엑스, 드래곤, 롯데), 테이블 매출 목표, 머신 매출 목표, 전자테이블 매출 목표 항목을 제공합니다. - 전자테이블 도입 이전 기간의 경우, 데이터 미 집계 공란 처리하였으며, 코로나 영업중단 기간은 0 처리하였습니다.",
+    "url": "https://www.data.go.kr/data/15135088/fileData.do",
+    "keywords": "공공카지노,외국인카지노,세븐럭카지노,관광서비스,매출목표",
+    "license": "이용허락범위 제한 없음",
+    "dateCreated": "2025-09-24",
+    "dateModified": "2025-11-03",
+    "datePublished": "2025-09-24",
+    "creator": {
+        "name": "그랜드코리아레저(주)",
+        "contactPoint": {
+            "contactType": "정보운영팀",
+            "telephone": "02-6421-6164",
+            "@type": "ContactPoint"
+        },
+        "@type": "Organization"
+    },
+    "spatialCoverage": "",
+    "temporalCoverage": "2011년 - 2025년",
+    "additionalType": "문화체육관광 - 관광",
+    "datasetTimeInterval": "연간",
+    "encodingFormat": "CSV",
+    "legislation": "",
+    "@context": "https://schema.org",
+    "@type": "Dataset"
+}
