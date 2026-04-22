@@ -1,0 +1,5 @@
+/Module holds mutiple different folders for each LLM modle and other important process of the project.
+There are individual files for different combination of LLM, settings, and Queries used.
+There are also files for evaluation function and tools used for index generation in each respective folder.
+
+ALL Modules under each folder MUST share the exact same input/ output format allowing them to be seamlessly exchanged with another.

@@ -1,0 +1,8 @@
+/Process contains the codes for each of the major steps in the project
+1. Search Index Creation -> creation of elasticsearch Index from raw .json fields in /DATA
+DRAG: uses a module to take existing metadata and add additional column for augmented metadata
+2. Search Query Generation -> intake User Query from /Data stored as txt files and generate elastic search function that matches the said keywords
+DRAG: use Query-Augmentation to generate
+3. Result Generation -> take the search results and the original query and output list of fetched documents ordered by elasticsearch score.
+DRAG: uses a module to rank and select the documents based on relevance to the query
+4. Evaluation -> evaluate the performance of the system.
