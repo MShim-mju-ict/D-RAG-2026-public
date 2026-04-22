@@ -1,0 +1,1 @@
+/Elastic is where i store Docker compose file for ElasticSearch.
