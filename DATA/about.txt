@@ -1,0 +1,2 @@
+/DATA is where all the files are stored. data samples, results, documents are all stored under DATA.
+Generally, new folder under /data is manually made with the current date to store all the data,result,evaluation for the project conducted.
